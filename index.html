@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Interactive California county directory for local UCCE advisors.">
+  <title>UC Rangelands County Advisor Directory</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="app-header">
+      <p class="eyebrow">UC Rangelands</p>
+      <h1>Find your local UCCE advisor</h1>
+      <p class="intro">Choose a county from the list or select it directly on the map.</p>
+    </header>
+
+    <section class="controls" aria-label="County selection controls">
+      <label for="county-select">County</label>
+      <div class="select-row">
+        <select id="county-select"><option value="">Select a county…</option></select>
+        <button id="clear-selection" type="button" class="secondary-button" disabled>Clear</button>
+      </div>
+    </section>
+
+    <div class="layout">
+      <section class="map-card" aria-labelledby="map-title">
+        <div class="map-heading">
+          <div>
+            <h2 id="map-title">California counties</h2>
+            <p id="map-status" aria-live="polite">Select a county</p>
+          </div>
+          <span class="map-key"><span class="key-swatch"></span> Selected county</span>
+        </div>
+        <div id="map-wrap" class="map-wrap">
+          <svg id="county-map" viewBox="0 0 415 473" role="img" aria-labelledby="svg-title svg-desc" preserveAspectRatio="xMidYMid meet">
+            <title id="svg-title">Interactive map of California counties</title>
+            <desc id="svg-desc">Select a county to display local advisor information.</desc>
+            <g id="county-polygons"></g>
+          </svg>
+          <div id="tooltip" class="tooltip" role="status" hidden></div>
+        </div>
+      </section>
+
+      <aside class="info-card" id="county-details" aria-live="polite">
+        <div class="empty-state">
+          <p class="eyebrow">County directory</p>
+          <h2>Select a county</h2>
+          <p>Advisor and county office information from the UC Rangelands directory.</p>
+        </div>
+      </aside>
+    </div>
+
+    <footer class="app-footer">
+      <p>Directory content is subject to change. Please contact with questions or suggestions.</p>
+    </footer>
+  </main>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
