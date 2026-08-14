@@ -3,7 +3,7 @@ window.UCRANGELANDS_DATA = {
   "directory": [
     {
       "county": "Alameda",
-      "countyPage": null,
+      "countyPage": nullf,
       "advisorUrl": "http://ucanr.edu/?facultyid=112",
       "advisor": "Sheila J. Barry",
       "advisor2": null,
@@ -187,7 +187,7 @@ window.UCRANGELANDS_DATA = {
       "advisorUrl": "http://ucanr.edu/?facultyid=28070",
       "advisor": "Devii R. Rao",
       "advisor2": "David J. Lewis",
-      "advisor2Url": "http://ucanr.edu/?facultyid=1335
+      "advisor2Url": "http://ucanr.edu/?facultyid=1335",
       "id": 21
     },
     {
