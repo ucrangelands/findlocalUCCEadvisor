@@ -112,8 +112,8 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "Imperial",
       "countyPage": "http://ceimperial.ucanr.edu/",
-      "advisorUrl": null,
-      "advisor": null,
+      "advisorUrl": "https://ucanr.edu/people/brooke-c-latack",
+      "advisor": "Brooke Latack",
       "advisor2": null,
       "advisor2Url": null,
       "id": 13
@@ -186,8 +186,8 @@ window.UCRANGELANDS_DATA = {
       "countyPage": null,
       "advisorUrl": "http://ucanr.edu/?facultyid=28070",
       "advisor": "Devii R. Rao",
-      "advisor2": null,
-      "advisor2Url": null,
+      "advisor2": "David J. Lewis",
+      "advisor2Url": "http://ucanr.edu/?facultyid=1335
       "id": 21
     },
     {
@@ -202,8 +202,8 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "Mendocino",
       "countyPage": null,
-      "advisorUrl": null,
-      "advisor": null,
+      "advisorUrl": "https://ucanr.edu/people/jennie-lane",
+      "advisor": "Jennie Lane",
       "advisor2": "David J. Lewis",
       "advisor2Url": "http://ucanr.edu/?facultyid=1335",
       "id": 23
@@ -285,15 +285,15 @@ window.UCRANGELANDS_DATA = {
       "countyPage": null,
       "advisorUrl": "https://ucanr.edu/people/tracy-k-schohr",
       "advisor": "Tracy Schohr",
-      "advisor2": "https://ucanr.edu/people/thomas-j-getts",
-      "advisor2Url": "Thomas Getts",
+      "advisor2": "Thomas Getts",
+      "advisor2Url": "https://ucanr.edu/people/thomas-j-getts",
       "id": 32
     },
     {
       "county": "Riverside",
       "countyPage": "http://ceriverside.ucanr.edu/",
-      "advisorUrl": null,
-      "advisor": null,
+      "advisorUrl": "https://ucanr.edu/people/brooke-c-latack",
+      "advisor": "Brooke Latack",
       "advisor2": null,
       "advisor2Url": null,
       "id": 33
@@ -310,8 +310,8 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "San Benito",
       "countyPage": null,
-      "advisorUrl": "http://ucanr.edu/?facultyid=28070",
-      "advisor": "Devii R. Rao",
+      "advisorUrl": "http://cemerced.ucanr.edu/about/contact/?facultyid=23269",
+      "advisor": "Dr. Fadzayi E. Mashiri",
       "advisor2": null,
       "advisor2Url": null,
       "id": 35
@@ -319,8 +319,8 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "San Bernardino",
       "countyPage": "http://cesanbernardino.ucanr.edu/",
-      "advisorUrl": null,
-      "advisor": null,
+      "advisorUrl": "https://ucanr.edu/people/brooke-c-latack",
+      "advisor": "Brooke Latack",
       "advisor2": null,
       "advisor2Url": null,
       "id": 36
@@ -355,8 +355,8 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "San Luis Obispo",
       "countyPage": null,
-      "advisorUrl": "http://ucanr.edu/?facultyid=1296",
-      "advisor": "Dr. Royce Larsen",
+      "advisorUrl": null,
+      "advisor": null,
       "advisor2": null,
       "advisor2Url": null,
       "id": 40
@@ -391,8 +391,8 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "Santa Cruz",
       "countyPage": null,
-      "advisorUrl": "http://ucanr.edu/?facultyid=28070",
-      "advisor": "Devii R. Rao",
+      "advisorUrl": "http://cemerced.ucanr.edu/about/contact/?facultyid=23269",
+      "advisor": "Dr. Fadzayi E. Mashiri",
       "advisor2": null,
       "advisor2Url": null,
       "id": 44
@@ -400,8 +400,8 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "Shasta",
       "countyPage": null,
-      "advisorUrl": null,
-      "advisor": null,
+      "advisorUrl": "https://ucanr.edu/people/justin-vigil",
+      "advisor": "Justin Vigil",
       "advisor2": null,
       "advisor2Url": null,
       "id": 45
@@ -454,8 +454,9 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "Sutter",
       "countyPage": "http://cesutter.ucanr.edu/",
-      "advisorUrl": null,
-      "advisor": null,
+      "countyPage": null,
+      "advisorUrl": "https://ucanr.edu/people/andrea-warner",
+      "advisor": "Andrea Warner",
       "advisor2": null,
       "advisor2Url": null,
       "id": 51
@@ -472,8 +473,8 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "Trinity",
       "countyPage": null,
-      "advisorUrl": null,
-      "advisor": null,
+      "advisorUrl": "https://ucanr.edu/people/justin-vigil",
+      "advisor": "Justin Vigil",
       "advisor2": null,
       "advisor2Url": null,
       "id": 53
@@ -517,8 +518,9 @@ window.UCRANGELANDS_DATA = {
     {
       "county": "Yuba",
       "countyPage": "http://cesutter.ucanr.edu/",
-      "advisorUrl": null,
-      "advisor": null,
+      "countyPage": null,
+      "advisorUrl": "https://ucanr.edu/people/andrea-warner",
+      "advisor": "Andrea Warner",
       "advisor2": null,
       "advisor2Url": null,
       "id": 58
