@@ -3,7 +3,7 @@ window.UCRANGELANDS_DATA = {
   "directory": [
     {
       "county": "Alameda",
-      "countyPage": nullf,
+      "countyPage": null,
       "advisorUrl": "http://ucanr.edu/?facultyid=112",
       "advisor": "Sheila J. Barry",
       "advisor2": null,
